@@ -1,6 +1,6 @@
 # 02 – FreeRTOS Message Queue 📬
 
-### *Stop shouting across the room. Pass a note instead.*
+### *This is Inter Task Communication*
 
 > 🔥 **The cool part?** A button press and a periodic timer are both trying to talk to UART — at the same time, at different rates. Without a queue, they'd trip over each other. With a queue? Everyone waits their turn, no data lost, no chaos.
 
